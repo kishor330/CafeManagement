@@ -1,0 +1,5 @@
+flask
+gunicorn
+# and any others like:
+flask-sqlalchemy
+psycopg2-binary
